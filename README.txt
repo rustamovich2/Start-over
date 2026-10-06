@@ -1,37 +1,17 @@
 # Start-over
 Sula's game
 ==================================================
-GAME TITLE: [Jumper Verbs and Nouns]
+GAME TITLE: [Collector Verbs and Nouns]
 DEVELOPER: [Sultan Kalygulov]
-COURSE/COMPETITION: Media and Design Competition
 ==================================================
-
 1. OVERVIEW
 -----------
-Jumper Verbs and Nouns is an educational arcade game where you jump to collect words flying towards you while dodging bombs. 
+Jumper Verbs and Nouns is an educational arcade game where you jump to collect words flying towards you while dodging bombs.
 
-2. PREREQUISITES & REQUIREMENTS
---------------------------------
-- Operating System: Windows 10 / 11
-- Software Needed: Visual Studio (.NET Framework / C#)
+INSTRUCTIONS
+================
+All you have to do is just jump and collect the Noun and Vern words which is flying towards to you, and also avoid big bombs which is can kill you. 
 
-3. LAUNCH DIRECTIONS / HOW TO RUN
----------------------------------
-1. Open Visual Studio on your computer.
-2. Go to File > Open > Project/Solution.
-3. Locate and select the 'Start-over' project solution file (.sln).
-4. Press 'F5' or click the green 'Start' button at the top menu to build and launch the game.
+On every collected word you will get 1 point, collect the points to get better records.
 
-4. CONTROLS & HOW TO PLAY
--------------------------
-- Control Scheme: One-Button Game
-- Spacebar: Jump / Action
-
-How to play:
-- Press SPACEBAR to make your character jump.
-- Collect correct words (verbs/nouns) flying toward you to score points.
-- Avoid colliding with bombs.
-
-5. CREDITS & ACKNOWLEDGMENTS
-----------------------------
-- Developed by Sultan Kalygulov in Visual Studio.
+You're gonna be collect all words as a kid who learns the words after coming back home after school
